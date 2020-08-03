@@ -37,3 +37,5 @@ num | aluno | nota
 Terminouo a tabela
 
 Não entendo `Trigger` merda! 
+
+Atalhos interessantes para quem está começando no git hub
