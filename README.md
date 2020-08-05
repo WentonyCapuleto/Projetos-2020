@@ -1,5 +1,5 @@
 # Projetos 2020
- Primeiro repositorio versionado
+ Atalhos bons do git hub
 
 Repositório criado em 20/07/2020
 # Titulo
